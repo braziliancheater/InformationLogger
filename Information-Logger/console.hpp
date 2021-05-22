@@ -1,5 +1,6 @@
 #pragma once
-//
+// https://github.com/b1scoito/clicker/blob/master/clicker/console.hpp
+// obrigado b1scoito vc e foda
 #include <shared_mutex>
 
 enum class msg_type_t : std::uint32_t

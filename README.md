@@ -19,7 +19,7 @@ os arquivos em php que fazem parte do programa foram incluidos na pasta "php" ho
 
 ### todo
 
-- [ ] um bot que pega o texto do site e printa em no discord.
+- [ ] um bot que pega o texto do site e printa no discord.
 - [ ] pegar token do discord
 - [ ] pegar senhas e logins 
 - [ ] pegar ip
